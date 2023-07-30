@@ -1,0 +1,7 @@
+1.
+Statically Type Language-language check the type during compile time.
+Dynamically Type Language-language check the type during run time.
+Stronly Type Language-language that strongly consider the data type.
+Loosely Type Language-language that doesn't care much about the data type.
+
+So Java is Strongly typed and Statically typed language.
