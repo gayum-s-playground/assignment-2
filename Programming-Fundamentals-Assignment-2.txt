@@ -5,3 +5,15 @@ Stronly Type Language-language that strongly consider the data type.
 Loosely Type Language-language that doesn't care much about the data type.
 
 So Java is Strongly typed and Statically typed language.
+
+2.
+Case Sensitive->Distinguishes between uppercase and lowercase characters in string comparisons.
+example: "IJSE" and "ijse" are considered different.
+
+Case Insensitive->Ignores the difference between uppercase and lowercase characters in comparisons.
+example:"IJSE" and "ijse" are considered as same.
+
+Case Sensitive-Insensitive->Provides an option to choose 
+example: "IJSE" and "ijse" can be considered same or different.
+
+In java ,the defualt behavior for String compertion is case sensitive.
