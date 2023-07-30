@@ -17,3 +17,13 @@ Case Sensitive-Insensitive->Provides an option to choose
 example: "IJSE" and "ijse" can be considered same or different.
 
 In java ,the defualt behavior for String compertion is case sensitive.
+
+3.
+Identity conversion means exchange value between the same data type.
+example:  boolean flag1 =true;
+          boolean flag2 =flag1;
+          
+          int int1 = 10;
+          int int2 = int1;
+
+
