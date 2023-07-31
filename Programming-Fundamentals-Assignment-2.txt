@@ -69,3 +69,11 @@ conditions for an implicit narrowing primitive conversion
 => target data type can represent the entire range of the sourde data type
 
 
+7.
+in float and double the value is represented using scientific notation. So the accuracy of the number
+ reduces.
+
+1.234456 ———> 1.23 x 10^7  but not accurate.
+that’s how we can store a long in float or double. 
+
+we don’t use float or double when we need accuracy.
