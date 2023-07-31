@@ -27,4 +27,13 @@ example:  boolean flag1 =true;
           int int2 = int1;
 
 4.
+Primitive widening conversion in Java automatically converts smaller data type to larger dat type
+without any data loss..
+
+ byte myByte = 10;
+ short myShort = myByte; // myByte value assign to myShort value
+
+
+'/home/gayum/Downloads/image.png' 
+
 
